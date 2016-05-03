@@ -17,3 +17,10 @@ div#content{float:right;width:500px}
 div#navigation{float:left;width:200px}
 div#extra{float:right;width:500px}
 div#footer{clear:both;width:100%}
+
+.foto {
+	
+	width: 250px;
+	height: 250px;
+	
+}
